@@ -34,7 +34,7 @@
     <div>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=c++,py" />
+          <img src="https://skillicons.dev/icons?i=qt,py" />
         </a>
       </p>
     </div>
