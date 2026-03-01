@@ -1,6 +1,6 @@
 <!-- 顶部波浪欢迎区 - 修正中文显示问 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,50:00dbde,100:92fe9d&height=300&section=header&text=Welcome%20%20to%20%20my%20%20profile!&fontSize=75&fontAlignY=20&desc=构建高性能后端系统%20•%20探索前沿技术&descSize=40&descAlignY=60&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,50:00dbde,100:92fe9d&height=300&section=header&text=Welcome%20%20to%20%20my%20%20profile!&fontSize=75&fontAlignY=20&desc=%20探索前沿技术&descSize=40&descAlignY=60&animation=twinkling&fontColor=ffffff" />
 </p>
 <!-- 个人简介卡片 - 优化显示 -->
 <div align="center">
