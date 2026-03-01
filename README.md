@@ -21,7 +21,7 @@
     <div>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=idea,pycharm,vscode,mysql,mongodb,redis,elasticsearch,rabbitmq,kafka,git,linux,docker,jenkins,postman" />
+          <img src="https://skillicons.dev/icons?i=pycharm,vscode,mysql,git,linux,docker,cmake,qt,pytorch," />
         </a>
       </p>
     </div>
@@ -34,7 +34,7 @@
     <div>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=java,py,js,ts,html,css,spring,vue" />
+          <img src="https://skillicons.dev/icons?i=c++,py" />
         </a>
       </p>
     </div>
