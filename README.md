@@ -42,7 +42,7 @@
  
 <h1 align="center">📊 语言使用分布</h1>
 [![Lorin-github](
-    <img src="[(https://github-readme-stats.vercel.app/api?username=dyfyyds)](https://github.com/anuraghazra/github-readme-stats)&layout=compact&hide_border=true&langs_count=8&theme=default" alt="语言统计" />
+    <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=dyfyyds)&layout=compact&hide_border=true&langs_count=8&theme=default" alt="语言统计" />
 </div>
  
 <h1 align="center">🔥 开发活跃度</h1>
