@@ -41,7 +41,6 @@
 </div>
  
 <h1 align="center">📊 语言使用分布</h1>
-=anuraghazra
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyfyyds&layout=compact&hide_border=true&langs_count=8&theme=default" alt="语言统计" />
 </div>
  
